@@ -1,0 +1,18 @@
+[
+  {
+    "email": "admin@gmail.com",
+    "password_hash": "MTIzNCE=", 
+    "role": "admin",
+    "full_name": "Admin User",
+    "phone_number": "(419) 530-3946",
+    "location": "Toledo, OH"
+  },
+  {
+    "email": "user@gmail.com",
+    "password_hash": "MTIzNCE=",
+    "role": "user",
+    "full_name": "Jane Doe",
+    "phone_number": "(440) 822-5574",
+    "location": "Cleveland, OH"
+  }
+]

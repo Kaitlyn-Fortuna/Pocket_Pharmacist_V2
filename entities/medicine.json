@@ -1,0 +1,22 @@
+{
+  "medications": [
+    {
+      "Name": "Pepto-Bismol (bismuth subsalicylate)",
+      "Side Effects": "Common side effects include temporary darkening of the tongue and stool due to the bismuth in the medication. Some people may also experience mild constipation or nausea while taking it.",
+      "Allergens": "People who are allergic to salicylates (including aspirin) may experience allergic reactions when taking this medication. Symptoms can include rash, itching, swelling, or difficulty breathing.",
+      "Interactions": "Pepto-Bismol can interact with anticoagulants such as warfarin and increase the risk of bleeding. It may also interfere with certain antibiotics and medications for gout by altering how they are absorbed or metabolized."
+    },
+    {
+      "Name": "Advil (ibuprofen)",
+      "Side Effects": "Common side effects include stomach pain, heartburn, nausea, or dizziness due to irritation of the stomach lining. Long-term or high-dose use may increase the risk of gastrointestinal bleeding, kidney problems, or cardiovascular events.",
+      "Allergens": "Some individuals are allergic to ibuprofen or other NSAIDs and may experience symptoms such as hives, rash, or swelling. Severe reactions can include difficulty breathing or anaphylaxis, especially in people with aspirin-sensitive asthma.",
+      "Interactions": "Advil may interact with blood thinners, corticosteroids, and other NSAIDs, increasing the risk of stomach bleeding. It can also reduce the effectiveness of certain blood pressure medications such as ACE inhibitors or diuretics."
+    },
+    {
+      "Name": "Aleve (naproxen sodium)",
+      "Side Effects": "Common side effects include stomach upset, heartburn, nausea, or headache due to irritation of the digestive tract. More serious risks include stomach ulcers, gastrointestinal bleeding, and increased risk of heart attack or stroke with prolonged use.",
+      "Allergens": "People allergic to naproxen or other NSAIDs may develop symptoms such as rash, itching, swelling, or difficulty breathing. Individuals with aspirin sensitivity may also experience allergic reactions when taking naproxen.",
+      "Interactions": "Aleve can interact with anticoagulants, corticosteroids, and other NSAIDs, increasing the risk of bleeding or stomach ulcers. It may also interact with certain blood pressure medications and lithium, potentially altering drug levels or effectiveness."
+    }
+  ]
+}
